@@ -258,24 +258,24 @@
                 head: {
                     nick: "昵称（必填）",
                     mail: "邮箱（必填）",
-                    link: "完整链接"
+                    link: "完整鏈接"
                 },
                 tips: {
-                    comments: "评论",
-                    sofa: "快来做第一个评论的人吧~",
+                    comments: "評論",
+                    sofa: "快来做第一个評論的人吧~",
                     busy: "还在提交中，请稍候...",
                     again: "这么简单也能错，也是没谁了."
                 },
                 ctrl: {
                     reply: "回复",
                     ok: "好的",
-                    sure: "确认",
+                    sure: "確認",
                     cancel: "取消",
-                    confirm: "确认",
-                    continue: "继续",
+                    confirm: "確認",
+                    continue: "繼續",
                     more: "查看更多...",
-                    try: "再试试?",
-                    preview: "预览",
+                    try: "再試試?",
+                    preview: "預覽",
                     emoji: "表情"
                 },
                 error: {
@@ -286,10 +286,10 @@
                 },
                 timeago: {
                     seconds: "秒前",
-                    minutes: "分钟前",
-                    hours: "小时前",
+                    minutes: "分鐘前",
+                    hours: "小時前",
                     days: "天前",
-                    now: "刚刚"
+                    now: "剛剛"
                 }
             },
             en: {
