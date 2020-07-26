@@ -249,34 +249,6 @@
      
     </div>
 
-
-  <br>
-  <div><p>網站内容遵循 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank" rel="noopener">署名-非商業性使用-相同方式共享 4.0 國際 (CC BY-NC-SA 4.0) 協議許可</a></p>
-</div>
-  Copyright <i class="far fa-copyright"></i> 2020
-    <a href="https://www.jinxb.top/" target="_blank"> QAIGSearch </a>丨
-    <img src="https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@3.0.6/images/icp.png">
-    <a href="http://www.beian.miit.gov.cn/" target="_blank">鄂ICP备20002230号-1</a> 丨
-    <!-- 网站运行时间 -->
-    <span id="timeDate"> </span><span id="times"></span>
-    <script>
-    var now = new Date(); 
-    function createtime() {
-      var grt= new Date("07/25/2020 12:00:00");//建站时间2020.7.25
-      now.setTime(now.getTime()+250); 
-      days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days); 
-      hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours); 
-      if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum); 
-      mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;} 
-      seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum); 
-      snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;} 
-      document.getElementById("timeDate").innerHTML = "本站已在風雨中度過了"
-      document.getElementById("times").innerHTML = dnum +" 天 " + hnum + " 小时 " + mnum + " 分 " + snum + " 秒"; 
-      /*document.getElementById("times").style.color="#0056FF";*/
-      }
-      setInterval("createtime()",250);
-    </script>
-</footer>
 <script>setLoadingBarProgress(80);</script>
 
 
