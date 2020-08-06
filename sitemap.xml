@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://igsearch.github.io/</loc>
+  <lastmod>2020-08-06T02:54:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://igsearch.github.io/%E6%96%87%E7%AB%A0/index.html</loc>
+  <lastmod>2020-08-06T02:54:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://igsearch.github.io/%E6%96%87%E7%AB%A0/%E8%AA%9E%E9%8C%84/index.html</loc>
+  <lastmod>2020-08-06T02:54:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://igsearch.github.io/%E6%96%87%E7%AB%A0/%E7%B6%93%E5%85%B8%E8%AA%9E%E9%8C%84/index.html</loc>
+  <lastmod>2020-08-06T02:54:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://igsearch.github.io/%E6%96%87%E7%AB%A0/%E6%84%9B%E6%83%85%E8%AA%9E%E9%8C%84/index.html</loc>
+  <lastmod>2020-08-06T02:54:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://igsearch.github.io/%E6%96%87%E7%AB%A0/%E5%8F%8B%E6%83%85%E8%AA%9E%E9%8C%84/index.html</loc>
+  <lastmod>2020-08-06T02:54:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://igsearch.github.io/%E6%96%87%E7%AB%A0/%E6%84%9F%E6%83%85%E8%AA%9E%E9%8C%84/index.html</loc>
+  <lastmod>2020-08-06T02:54:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
