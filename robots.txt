@@ -1,2 +1,3 @@
 User-agent: *
-Allow: /
+DisAllow: /404.html
+DisAllow: /關於/index.html
